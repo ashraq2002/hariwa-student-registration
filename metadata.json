@@ -1,0 +1,6 @@
+{
+  "name": "University Registration Portal",
+  "description": "A comprehensive student enrollment and administration system featuring profile management, document registration, status verification, and admin request approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

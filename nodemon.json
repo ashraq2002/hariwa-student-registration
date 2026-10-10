@@ -1,0 +1,9 @@
+{
+  "watch": ["src/backend"],
+  "ignore": [
+    "db_store.json",
+    "db_store*.json",
+    "src/frontend/*",
+    "dist/*"
+  ]
+}
